@@ -1,0 +1,1 @@
+# Smart raspberry pi project with stream and process on host.
